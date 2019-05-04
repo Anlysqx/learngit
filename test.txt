@@ -1,2 +1,3 @@
 test remove
 test merge
+before commite
