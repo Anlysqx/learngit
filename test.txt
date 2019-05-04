@@ -1,3 +1,4 @@
 test remove
 test merge
 before commite
+add new function
